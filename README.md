@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Project-ThinkOS
+- 👀 I’m interested in CSE and Linux
+- 🌱 I’m currently learning CSE and Batch files
+- 💞️ I’m looking to collaborate on Project ThinkOS
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I started learning linux as a teen
